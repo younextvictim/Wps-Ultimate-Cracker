@@ -36,7 +36,7 @@ echo -e "$BYellow#$BWhite-$BGreen Wps$BRed Ultimate$BCyan Cracker made By$Green 
 echo -e "$BYellow#$BWhite-$BGreen Big thanxs to$Green Hackshow						    $BYellow#"
 echo -e "$BYellow#$BWhite-$BGreen My acount Google Plus :$BPurple younextvictim@gmail.com                          $BYellow#"
 echo -e "$BYellow#$BWhite-$BGreen My Account facebook:$BPurple https://www.facebook.com/abdolking12                $BYellow#"
-echo -e "$BYellow#$BWhite-$BRed AllCopyright are Reserved $BWhiteÂ©                                              $BYellow#"
+echo -e "$BYellow#$BWhite-$BRed AllCopyright are Reserved $BWhite©                                              $BYellow#"
 echo -e "$BYellow#############################################################################"
 exit 
 }
@@ -147,17 +147,17 @@ echo -e "$BYellow    +----------------------------------------------------------
 sleep 0.1
 echo -e "    $BYellow|    			$Red	__     __             $Cyan ______    $BYellow|"
 sleep 0.1
-echo -e "   $BYellow |  $Greenâ–ˆâ–ˆâ•—    â–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—	$Redâ–ˆâ–ˆ|   |â–ˆâ–ˆ|	     $Cyanâ•”â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•‘	 $BYellow|	"
+echo -e "   $BYellow |  $Green██╗    ██╗██████╗ ███████╗	$Red██|   |██|	     $Cyan╔███████║	 $BYellow|	"
 sleep 0.1
-echo -e "    $BYellow|  $Greenâ–ˆâ–ˆâ•‘    â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•â•â•â•â•       $Redâ–ˆâ–ˆ|   |â–ˆâ–ˆ| $BWhite _____   $Cyanâ–ˆâ–ˆ|          $BYellow|	"
+echo -e "    $BYellow|  $Green██║    ██║██╔══██╗██╔════╝       $Red██|   |██| $BWhite _____   $Cyan██|          $BYellow|	"
 sleep 0.1
-echo -e "    $BYellow|  $BGreenâ–ˆâ–ˆâ•‘ â–ˆâ•— â–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—       $BRedâ–ˆâ–ˆ|   |â–ˆâ–ˆ| $BWhite|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆ|  $BCyanâ–ˆâ–ˆ|          $BYellow| 		"
+echo -e "    $BYellow|  $BGreen██║ █╗ ██║██████╔╝███████╗       $BRed██|   |██| $BWhite|█████|  $BCyan██|          $BYellow| 		"
 sleep 0.1
-echo -e "    $BYellow|  $BGreenâ–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•â•â•â• â•šâ•â•â•â•â–ˆâ–ˆâ•‘	$BRedâ–ˆâ–ˆ|___|â–ˆâ–ˆ|          $BCyanâ–ˆâ–ˆ|_______   $BYellow|"
+echo -e "    $BYellow|  $BGreen██║███╗██║██╔═══╝ ╚════██║	$BRed██|___|██|          $BCyan██|_______   $BYellow|"
 sleep 0.1
-echo -e "    $BYellow|  $Greenâ•šâ–ˆâ–ˆâ–ˆâ•”â–ˆâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ•‘     â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•‘	$Redâ•šâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•  	     $Cyanâ•šâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ   $BYellow|		"
+echo -e "    $BYellow|  $Green╚███╔███╔╝██║     ███████║	$Red╚███████╔╝  	     $Cyan╚████████   $BYellow|		"
 sleep 0.1
-echo -e "    $BYellow|   $Greenâ•šâ•â•â•â•šâ•â•â• â•šâ•â•     â•šâ•â•â•â•â•â•â•	 $Redâ•šâ•â•â•â•â•â•â•             $Cyanâ•šâ•â•â•â•â•â•â•   $BYellow|"
+echo -e "    $BYellow|   $Green╚══╝╚══╝ ╚═╝     ╚══════╝	 $Red╚══════╝             $Cyan╚══════╝   $BYellow|"
 sleep 0.1
 echo -e "$BYellow    +-----------------------+----------------------+---------------------+"
 sleep 0.1
@@ -844,4 +844,3 @@ fi
            echo ""
    done
 done
-
